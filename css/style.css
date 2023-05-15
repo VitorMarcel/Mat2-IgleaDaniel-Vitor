@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family= Poppins & display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.cinturao-imagem {
+    width:35%;
+    height: 35%;
+    border-radius: 100px;
+}
+
+.cinturao {
+    background: linear-gradient(#21CA3B, #378637);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+}
+
+.cinturao-div {
+    width: 35%;
+}
+
+.cinturao-titulo {
+    padding: 24px 0 ;
+}
+
+.texto-um, .texto-dois {
+    color: #3B4159;
+    padding: 10px 0;
+}
+
+.biodiversidade{
+    background: #378637;
+}
+
+.animal-imagem {
+    width: 75%;
+}
+
+.animal-planta {
+    width: 24px;
+    height: 24px;
+    padding: 4px 8px;
+}
+
+.animal-div {
+    text-align: center;
+    padding: 16px 0;
+}
+
+.biodiversidade-div {
+    text-align: center;
+    padding: 50px;
+}
+
+.animal-todos {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}

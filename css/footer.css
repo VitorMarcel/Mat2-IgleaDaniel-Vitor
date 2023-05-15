@@ -1,0 +1,43 @@
+.footer-principal {
+    background: #23232e;
+    text-align: center;
+    align-items: center;
+    color: #fff;
+}
+
+.logo-footer {
+    font-size: 24px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    padding-top: 25px;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 12px;
+    background: #23232e;
+}
+
+.list {
+    position: relative;
+}
+
+.list li {
+    display: inline;
+}
+
+.list li a {
+    padding: 10px;
+}
+
+.copyright {
+    padding: 20px;
+}
+
+.contatos {
+    width: 24px;
+    height: 24px;
+    padding: 0 10px;
+}
